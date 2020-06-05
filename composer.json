@@ -18,6 +18,10 @@
         {
             "name": "Adam Paterson",
             "email": "hello@adampaterson.co.uk"
+        },
+        {
+          "name": "Kenneth Ormandy",
+          "email": "hello@kennethormandy.com"
         }
     ],
     "require": {
