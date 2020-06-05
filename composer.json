@@ -39,5 +39,9 @@
         "psr-4": {
             "AdamPaterson\\OAuth2\\Client\\Test\\": "test/src/"
         }
+    },
+    "scripts": {
+      "format": "vendor/bin/phpcs --standard=psr2 src/",
+      "test": "phpunit --coverage-text --coverage-clover=coverage.clover"
     }
 }
